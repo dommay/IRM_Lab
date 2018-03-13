@@ -27,4 +27,4 @@ functions.o: functions.h functions.c
 
 # remove generated files and programs
 clean:
-	rm functions.o sum_numbers.o sum_numbers hello_world
+	rm functions.o sum_numbers.o manipulate_two_numbers.o sum_numbers hello_world
